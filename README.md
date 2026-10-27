@@ -17,3 +17,5 @@ This project is intended for **educational purposes, reverse engineering, compat
 This is an **unofficial, independent project** and is not affiliated with or endorsed by any of the companies mentioned above.
 
 All third-party copyrights and trademarks remain with their respective owners. The repository's license covers only the original tools and scripts.
+
+Made simply because I love playing Smurfs' Village. Bitch, don't judge me 💙
