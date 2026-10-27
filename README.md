@@ -12,6 +12,8 @@ Uses **application-specific profiles** to keep the tooling reusable across diffe
 ### ⚠️ Disclaimer & Copyright
 This project is intended for **educational purposes, reverse engineering, compatibility research and personal use only**.
 
-**All rights to Smurfs' Village and its associated intellectual property belong to their respective owners.** CAPCOM and its respective trademarks remain the property of **CAPCOM Co., Ltd**
+**Smurfs' Village** and its associated intellectual property belong to their respective rights holders, including **CAPCOM Co., Ltd.**, **Beeline Interactive, Inc.**, **Bongfish GmbH**, **Flashman Games LLC**, **PopReach**, **Garden City Games**, **Phoenix Games Holding UK Ltd.** and **IMPS S.R.L.**, as applicable.
 
-This is an **unofficial project**, not affiliated with or endorsed by **CAPCOM**. No ownership of third-party intellectual property is claimed. The repository's license covers only the original tools and scripts.
+This is an **unofficial, independent project** and is not affiliated with or endorsed by any of the companies mentioned above.
+
+All third-party copyrights and trademarks remain with their respective owners. The repository's license covers only the original tools and scripts.
