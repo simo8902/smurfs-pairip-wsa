@@ -18,4 +18,5 @@ This is an **unofficial, independent project** and is not affiliated with or end
 
 All third-party copyrights and trademarks remain with their respective owners. The repository's license covers only the original tools and scripts.
 
+To hell with AppLovin, but the current IP holders deserve a money for keeping this game so far and updating it, no joke here. AppLovin WILL REMAIN WORKING for them!
 Made simply because I love playing Smurfs' Village. Bitch, don't judge me 💙
